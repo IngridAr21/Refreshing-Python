@@ -21,5 +21,15 @@ print(3 > 4)
 print(3 < 4)
 print(3 >= 4)
 print(4 <= 4)
-#print(3 = 4)
+print(3 == 4)
 print(3 != 4)
+print(3 > 4 == 2)
+
+print("Hola" > "Python")
+print("Hola" < "Python")
+print("Hola" >= "Python") # Comprueba una ordenación alfabética por ASCII
+print(len("aaa") >= len("abaa"))
+print("Hola" <= "Python")
+print("Hola" == "Hola")
+print("Hola" != "Python")
+
